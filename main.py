@@ -444,7 +444,7 @@ async def info(ctx):
     embed.add_field(name="**Server & Member count**", value=f"Total Guilds: {len(client.guilds)}\nTotal Users: {len(client.users)}")
     embed.add_field(name="**Prefix**", value=f"Default: &")
     embed.add_field(name="**Library**", value="Discord.py")
-    embed.add_field(name="**Developers**", value="<@820456643665461248> <@760649628533784586> <@787636930400616468> <@290405378800222208>")
+    embed.add_field(name="**Developers**", value="<@843219488743751690>")
     embed.add_field(name="**Latency**", value=f"{round(client.latency * 1000)}")
     embed.add_field(name="**Version**", value="0.10")
     embed.add_field(name="**Shard**",
