@@ -685,5 +685,4 @@ async def on_guild_join(guild):
 			embed.colour = 0x36393F
 			message = await channel.send(embed=embed)
 		break
-
-client.run('ODI3MTA5OTk5ODgwNTY4ODMy.YGWQNg.jHFvWdJbtBr1RpRVVDp2A-4Qpi0', bot=True)
+client.run('', bot=True)
